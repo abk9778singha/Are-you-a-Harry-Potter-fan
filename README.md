@@ -27,6 +27,11 @@ At  the end of quiz user will get their total score as well as the highest score
 
 ## Screenshots -
 
+Quiz -
+![App Screenshot](Images/Harry%20Potter%20fan%20quiz.png)
+
+Harry Potter cover image -
+![App Screenshot](Images/Harry%20Potter%20coverpage.jpeg)
 
 
 ## Author -
